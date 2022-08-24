@@ -21,7 +21,7 @@
 
 [![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavKrishnan007&show_icons=true&theme=dark&title_color=00FF00)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKrishnan007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>![image](https://user-images.githubusercontent.com/89575829/186483843-a386bc3a-3aab-4fb3-8a47-979f45f349a1.gif)
+<br>
 
 <h3 align="left">Contributions: </h3>
 <p>
