@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **to become a web dev.**
 
-- 📫 How to reach me **pranavk0217@gmail.com**
+- 📫 my Gmail - **pranavk0217@gmail.com**
 
 - ⚡ Fun fact **I love my doggo.**
 
