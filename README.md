@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Learning.....</h3>
 
-- 🌱 I’m currently learning **to become a web dev.**
+- 🌱 Learning 🏃‍♀️ 
 
 - 📫 my Gmail - **pranavk0217@gmail.com**
 
